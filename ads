@@ -6,3 +6,4 @@
 ||doubleclick.net^
 ||googleadservices.com^
 ||googlesyndication.com^
+||graph.facebook.com^$app=com.netrhym.app
